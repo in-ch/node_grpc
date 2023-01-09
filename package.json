@@ -15,5 +15,6 @@
   "dependencies": {
     "@grpc/grpc-js": "^1.8.1",
     "ts-proto": "^1.137.2"
-  }
+  },
+  "packageManager": "yarn@1.22.19"
 }
